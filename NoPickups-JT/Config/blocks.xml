@@ -1,0 +1,12 @@
+<JaxTeller718>
+	<set xpath="/blocks/block[@name='officeChair01']/property[@name='CanPickup']/@value">false</set>
+	<set xpath="/blocks/block[@name='woodChair1']/property[@name='CanPickup']/@value">false</set>
+	<set xpath="/blocks/block[@name='chairFoldingMetalUnfoldedWhite']/property[@name='CanPickup']/@value">false</set>
+	<set xpath="/blocks/block[@name='chairFoldingMetalFoldedLeaningWhite']/property[@name='CanPickup']/@value">false</set>
+	<set xpath="/blocks/block[@name='chairFoldingMetalFoldedFallenWhite']/property[@name='CanPickup']/@value">false</set>
+	<set xpath="/blocks/block[@name='chairCampingWhite']/property[@name='CanPickup']/@value">false</set>
+
+	<set xpath="/blocks/block[@name='oldChair1']/property[@name='CanPickup']/@value">false</set>
+	<set xpath="/blocks/block[@name='treePlant02']/property[@name='CanPickup']/@value">false</set>
+	<!-- <set xpath="/blocks/block[@name='bedroll']/property[@name='CanPickup']/@value">false</set> -->
+</JaxTeller718>

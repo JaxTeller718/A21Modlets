@@ -1,0 +1,8 @@
+<xml>
+	<Name value="NoPickups-JT"/>
+	<DisplayName value="NoPickups-JT"/>
+	<Description value="Disables the ability to pick up items like chairs in the world"/>
+	<Author value="JaxTeller718"/>
+	<Version value="9.0.0"/>
+	<Website value="https://ravenhearst.enjin.com/"/>
+</xml>
